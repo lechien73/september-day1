@@ -1,26 +1,49 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# This is a heading
 
+This is a paragraph and here is some fake Latin to keep everyohne happy. Or not!
 
-Hi there! Welcome to Cloud9 IDE!
+## This is the equivalent of a H2
+### This is the equivalent of a H3
 
-To get you started, we included a small hello world application.
+###### This is the equivalent of a H6
 
-1) Open the hello-world.html file
+[This is a link](https://www.google.com)
 
-2) Click on the Preview button to open a live preview pane
+<a href="https://www.google.com" target="_blank">This is another link</a>
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+* This is a bullet list
+* So is this
+* And this
 
-Happy coding!
-The Cloud9 IDE team
++ These are bullets too!
++ So are these
 
+1. This is a numbered list
+1. So is this
+1. Here is number 3
 
-## Support & Documentation
+*This is italic text*
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+**This is formatted text**
+
+***Bold and italic***
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+```HTML
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <title>IFED Page</title>
+</head>
+```
+
+```CSS
+body {
+    background-color: red;
+}
+```
